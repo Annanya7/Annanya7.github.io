@@ -1,6 +1,6 @@
 {% if site.blog.size > 0 %}
   <ul>
-    {% for post in site.blog %}
+    {% for post in site.blog reversed %}
       {% if include.featuredOnly == true %}
         {% if post.featured == true %}
           <li class="post-list-item">
