@@ -4,6 +4,6 @@ layout: default
 
 {% include nav.html %}
 
-# Projects
+# Blog
 
-{% include projects_list.html %}
+{% include blog_list.html %}

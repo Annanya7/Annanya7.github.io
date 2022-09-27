@@ -1,22 +1,12 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: home
+    url: /
+
+  - title: art
+    url: /art
 
   - title: projects
-    url: projects
-
-  - title: website
-    url: https://www.abhinav.co
-
-footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: /projects
+  
+  - title: blog
+    url: /blog
