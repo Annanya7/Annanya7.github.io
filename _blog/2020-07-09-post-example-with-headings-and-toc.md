@@ -1,26 +1,30 @@
 ---
 layout: post
+title: "Machine Learning in Fintech"
+featured: true
 ---
+![Machine Learning in Fintech](https://pensionbox.in/images/blog/posts/ML.png)
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.
+Artificial intelligence is fuelling every sector these days, and any industry that ignores this reality may find itself in the history books! Artificial Intelligence has taken the arena of tech by a gust, at its inception, Fin-Tech was limited to facilitating payments and transactions. Underpinned by revolutionary shifts on the Internet, it focuses on the improvement and automation of delivery and use of financial services.
 
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [The start](#the-start)
-- [The middle](#the-middle)
-- [The end](#the-end)
+## Making difficult retirement decisions
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
+How much money to invest or withdraw or whether they will have enough money in retirement is an ordeal. And millennials hardly think about retiring. Financial guidance can help people raise their liquid assets by up to 32% over the course of their lives, according to new ILC-UK research on the subject. AI is frequently used as a consultant. Based on scant client information, the first generation of these intelligent advisors provided asset allocation stages. For instance, the future generation is emphasising on fully regulated online counselling in the difficult pensions industry. AI may be employed to evaluate risk tolerance and retirement objectives before making recommendations based on the information gathered.
 
-## [The start](#the-start)
+## Necessity for a successful retirement saving plan
+An in-depth analysis is necessary for a successful retirement saving plan, claims a white paper that was issued. The report included additional five steps that described how to use AI to enhance retirement savings plan creation.
 
-Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.
+1. What are the goals of the plan?
+2. What planning goals are not being met?
+3. What kinds of information, if any, could enhance a crucial result?
+4. How and where would participants like to be involved?
+5. What language best resonates with engagement plan of participants
 
-## [The middle](#the-middle)
+## How do these 5 steps helps ?
 
-Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.
+An experience for each participant is now more uniquely tailored attributable to artificial intelligence. This increases the financial stability of retirement by enabling more involved people to make wiser and more dynamic financial decisions. It can also help plan fiduciaries perform their duties more effectively and efficiently and create plans that improve member retirement outcomes.
 
-## The end
+## AI in Fintech
+AI in FinTech is used for a wide array of purposes: lending decision-making, customer support, fraud detection, credit risk assessment, insurance, wealth management, and much more.
 
-Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
