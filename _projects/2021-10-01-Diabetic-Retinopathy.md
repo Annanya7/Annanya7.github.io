@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diabeteic Retinopathy Detection"
+title: "Diabeteic Retinopathy Detection using Deep Learning"
 featured: true
 ---
 ## Problem Statement
