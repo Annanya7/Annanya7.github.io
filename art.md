@@ -2,11 +2,10 @@
 layout: post
 title: Art Spectrum 
 ---
+Curating art is a liberating emotion for me. My eclectic creations are an amagamation of future-ready products , hand-sketched protraits , chic outfit designs, water paintings and textile paintings. 
 
-Curating art is a liberating emotion for me, created through my imagination!
+## Table of Content 
 
-## Table of Content
- 
 Feel free to navigate directly to the desired section!
 
 | My Creation    | Links                                             |
@@ -67,4 +66,5 @@ Product - Lays and Shoe
 
 ---
 ## Paintings
+
 ![input](/assets/images/story.jpg)

@@ -1,18 +1,19 @@
 ---
 layout: home
 ---
+Hey
+I'm Ananya Goel, a venturesome, visionary and versatile individual!
+I am passionate about Artificial Intelligence , Machine Learning and Internet of Things and some of the projects below reflect my interest.On the creative front I like to pen down my thoughts and curate art.
+Exploring people and places has always piqued my interest.I'm a natural at public relations.
+In addition to my usuals, I enjoy pistol shooting , sketching and classical dancing.
 
-This is my webpage!
-
-#### Woohoo!
-
-I have projects:
+#### Featured Projects  
 {% include projects_list.html featuredOnly=true %}
 
-I also have a blog. Here are some featured posts:
+#### Featured Blogs
 {% include blog_list.html featuredOnly=true %}
 
-I also have art:
+#### Featured Art 
 * [Product Designing](/art#product-designing)
 * [Portraits](/art#portraits) 
 * [Fashion Design](/art#fashion-designing) 
