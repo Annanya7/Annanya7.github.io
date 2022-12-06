@@ -1,7 +1,6 @@
 ---
 layout: post
 title : "Airbnb Analysis, Visualization and Prediction"
-featured : true
 ---
 ## Break down of this notebook
 
