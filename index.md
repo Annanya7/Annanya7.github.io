@@ -14,8 +14,8 @@ In addition to my usuals, I enjoy pistol shooting , sketching and classical danc
 {% include blog_list.html featuredOnly=true %}
 
 #### Featured Art 
-* [Product Designing](/art#product-designing)
-* [Portraits](/art#portraits) 
-* [Fashion Design](/art#fashion-designing) 
-* [Paintings](/art#paintings)
+* [Paintings](/art#paintings)                       
+* [Product Designing](/art#product-designing)       
+* [Portraits](/art#portraits)                       
+* [Fashion Design](/art#fashion-designing)   
     

@@ -6,17 +6,13 @@ title: Art Spectrum
 
 Curating art is a liberating emotion for me. My eclectic creations are an amagamation of future-ready products , hand-sketched protraits , chic outfit designs, water paintings and textile paintings. 
 
-## Table of Content 
-
+## My Creations 
 Feel free to navigate directly to the desired section!
 
-| My Creation    | Links                                             |
-| -------------- | -----------                                       |
-| Paintings      | [Paintings](/art#paintings)                       |
-| Product Design | [Product Designing](/art#product-designing)       |
-| Portraits      | [Portraits](/art#portraits)                       |
-| Fashion Design | [Fashion Design](/art#fashion-designing)          |
-
+* [Paintings](/art#paintings)                       
+* [Product Designing](/art#product-designing)       
+* [Portraits](/art#portraits)                       
+* [Fashion Design](/art#fashion-designing)   
 
 ## Paintings
 
@@ -38,7 +34,7 @@ Feel free to navigate directly to the desired section!
 ### Whirly Art 
 ![input](/assets/images/p6.jpg)
 
-
+---
 ## Product Designing
 
 ### Smart Watch

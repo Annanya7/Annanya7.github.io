@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "What is churn prediction and why is it important?"
+title: " Churn Prediction"
 featured: true
 ---
 
-![Churn Prediction](https://pensionbox.in/images/blog/posts/CP.png)
+![Churn Prediction](/assets/images/cp.png)
 
 “When they have to give something up, they are hurt more than they are pleased if they acquire the very same thing.” Articulated precisely by Richard Thaler, the author of Nudge. Telecommunication companies are becoming hot cakes. The advent of fame, yields in the brumous frost of contention.
 
