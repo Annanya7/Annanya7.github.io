@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Comparative Analysis of Classification Algorithms 
+featured: true 
 ---
 ## Supervised Machine Learning Algorithms
 

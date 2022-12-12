@@ -1,6 +1,7 @@
 ---
 layout: post
 title : " NLP on Twitter Corpus"
+featured: true 
 ---
 ## Problem Statement
 
